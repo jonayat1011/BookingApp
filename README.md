@@ -129,7 +129,7 @@ Designed using the **Code-First Approach** in Entity Framework.
 - **Invoices**: Stores booking and payment details (`InvoiceId`, `ProfileId`, etc.).
  
 ---
-##Developer Information
+## Developer Information
 ### Team devDynamos
 
 | **Name**               | **Email**                                  | **Facebook**                                                                                      | **LinkedIn**                                            | **Codeforces**                                               |
