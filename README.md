@@ -129,7 +129,8 @@ Designed using the **Code-First Approach** in Entity Framework.
 - **Invoices**: Stores booking and payment details (`InvoiceId`, `ProfileId`, etc.).
  
 ---
-# Team devDynamos
+##Developer Information
+### Team devDynamos
 
 | **Name**               | **Email**                                  | **Facebook**                                                                                      | **LinkedIn**                                            | **Codeforces**                                               |
 |------------------------|--------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------|--------------------------------------------------------------|
@@ -138,9 +139,5 @@ Designed using the **Code-First Approach** in Entity Framework.
 
 ---
 
-# Travel Booking Application
-
-## Overview
-This project simplifies the process of traveling by allowing users to book hotels at preferred locations through packages...
 
  
