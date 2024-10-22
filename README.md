@@ -129,4 +129,18 @@ Designed using the **Code-First Approach** in Entity Framework.
 - **Invoices**: Stores booking and payment details (`InvoiceId`, `ProfileId`, etc.).
  
 ---
+# Team devDynamos
+
+| **Name**               | **Email**                                  | **Facebook**                                                                                      | **LinkedIn**                                            | **Codeforces**                                               |
+|------------------------|--------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------|--------------------------------------------------------------|
+| Rabiul Islam Bipul      | rabiulislambipul.per@gmail.com             | [Facebook Profile](https://www.facebook.com/rabiulbipul/)                                          | [LinkedIn](https://www.linkedin.com/in/)                | [Codeforces](https://codeforces.com/profile/rabiulbipul)      |
+| MD. Jonayat Hossain     | jonayathossainooo@gmail.com                | [Facebook Profile](https://www.facebook.com/profile.php?id=100014249430261)                        | [LinkedIn](https://www.linkedin.com/in/jonayat-hossain-2152a721a) | [Codeforces](https://codeforces.com/profile/Jonayat_Hossain)   |
+
+---
+
+# Travel Booking Application
+
+## Overview
+This project simplifies the process of traveling by allowing users to book hotels at preferred locations through packages...
+
  
